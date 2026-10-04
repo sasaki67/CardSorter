@@ -1,0 +1,19 @@
+{
+    "name": "WaveScreenTransition.Runtime",
+    "rootNamespace": "Wave.ScreenTransition",
+    "references": [
+        "UnityScreenNavigator",
+        "UniTask"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "WAVE_SCREEN_TRANSITION_READY"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

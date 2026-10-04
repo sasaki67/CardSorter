@@ -1,0 +1,20 @@
+{
+    "name": "WaveScreenTransition.Timeline",
+    "rootNamespace": "Wave.ScreenTransition",
+    "references": [
+        "WaveScreenTransition.Runtime",
+        "UnityScreenNavigator",
+        "Unity.Timeline"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "WAVE_SCREEN_TRANSITION_READY"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

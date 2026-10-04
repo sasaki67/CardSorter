@@ -1,0 +1,25 @@
+{
+    "name": "WaveScreenTransition.Tests.Editor",
+    "rootNamespace": "Wave.ScreenTransition.Tests",
+    "references": [
+        "WaveScreenTransition.Runtime",
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS",
+        "WAVE_SCREEN_TRANSITION_READY"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

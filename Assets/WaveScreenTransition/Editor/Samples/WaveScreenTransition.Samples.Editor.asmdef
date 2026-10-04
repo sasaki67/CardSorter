@@ -1,0 +1,22 @@
+{
+    "name": "WaveScreenTransition.Samples.Editor",
+    "rootNamespace": "Wave.ScreenTransition.Samples.Editor",
+    "references": [
+        "WaveScreenTransition.Runtime",
+        "WaveScreenTransition.Samples",
+        "UnityScreenNavigator"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "WAVE_SCREEN_TRANSITION_READY"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
